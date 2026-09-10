@@ -1,7 +1,13 @@
-<a href="https://omakase.community"><img src="https://raw.githubusercontent.com/omakase-community/.github/main/assets/house-cat-banner.png" alt="omakase — things we make, use, and share. A black and cream house cat on a golden yellow background." width="100%"></a>
+<a href="https://omakase.community"><img src="https://raw.githubusercontent.com/omakase-community/.github/main/assets/omakase-riso-cover.jpg" alt="Omakase. A forest-bandana hacker cat with a laptop, printed in indigo on cream paper." width="100%"></a>
 
-### things we make, use, and share.
+## What works, from people doing the work.
 
-projects and experiments from the omakase community.
+Conversations, guides and recommendations from people building with AI.
 
-[visit omakase.community](https://omakase.community)
+[Visit Omakase](https://omakase.community)
+
+### Codex Workshop
+
+Build your own AI agent. Practical skills, examples and a guided starting point, shared at GITEX AI Türkiye.
+
+[Get started](https://omakase.community/gitex) · [Explore the repository](https://github.com/omakase-community/gitex-workshop) · [Download the kit](https://github.com/omakase-community/gitex-workshop/archive/refs/heads/main.zip)
